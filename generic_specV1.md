@@ -40,20 +40,17 @@ Lorraine Mcfly calls the office of the school and Strickland answers, the curren
 25% of Ms. Clayton's class does not have internet at home or the parent's do not have an email address. Since the parents signed up for these slots months ago she'd like to send notes home with the kids as reminders. But doesn't need to remind all of the parents with a peice of paper, she doesn't hate trees. Ms. Clayton logs into the system selects reminder slips from the menu, clicks students she needs the reminders for and hits print. She then goes to the reminders menu and clicks email reminders, checks the boxes by the students with emaill addresses and clicks 'send notification'.  
 
 ####The schedule (what this thing revolves around) (version 1)
-On wednesday Feb 21 2016 from 4:30pm until 8pm
-
-On thursday Feb 22 2016 from 1pm until 8pm
-
-15 minute intervals
-
-a parent is allowed one 15 min interval per child
+- On wednesday Feb 21 2016 from 4:30pm until 8pm
+- On thursday Feb 22 2016 from 1pm until 8pm
+- 15 minute intervals
+- a parent is allowed one 15 min interval per child
 
 information gathered -> Child Name, Child grade, Child's teacher, Parent/guardian name, Parent/Guardin name2, date of conference, time slot of conference, parent email, parent email2
 ####Reminders
 *online*
+A preformatted(?) email sent to all of the parents _who have emails_ With the childs name conference date and time filled out with the teachers name at the bottom.
 
 *print*
-
 printable pdf quater size notes of PTC information for teachers to print out so students can bring them home to parents. Content and layout for printable reminder below.
 
 -------------------------------------------                                       
