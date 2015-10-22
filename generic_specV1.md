@@ -57,12 +57,8 @@ printable pdf quater size notes of students
 -------------------------------------------
 |                                           |
 | to the parents of ___ childs name___      |                           
-| 
 | Your parent teacher conference is at      |                            
-| 
-| time____                                  |
-|                                           |
+| time____                                  |                                     
 | date____                                  |
-| 
 | with___teacher name___                    |             
 ____________________________________________
