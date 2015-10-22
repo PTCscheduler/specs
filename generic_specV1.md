@@ -54,6 +54,9 @@ information gathered -> Child Name, Child grade, Child's teacher, Parent/guardia
 
 *print*
 printable pdf quater size notes of students 
+
+Content and layout for printable reminder below
+
 -------------------------------------------                                       
 to the parents of ___ childs name___                                
 Your parent teacher conference is at                                 
