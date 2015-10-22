@@ -48,9 +48,11 @@ Lorraine Mcfly calls the office of the school and Strickland answers, the curren
 information gathered -> Child Name, Child grade, Child's teacher, Parent/guardian name, Parent/Guardin name2, date of conference, time slot of conference, parent email, parent email2
 ####Reminders
 *online*
+
 A preformatted(?) email sent to all of the parents _who have emails_ With the childs name conference date and time filled out with the teachers name at the bottom.
 
 *print*
+
 printable pdf quater size notes of PTC information for teachers to print out so students can bring them home to parents. Content and layout for printable reminder below.
 
 -------------------------------------------                                       
