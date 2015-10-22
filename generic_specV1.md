@@ -54,9 +54,7 @@ information gathered -> Child Name, Child grade, Child's teacher, Parent/guardia
 
 *print*
 
-printable pdf quater size notes of PTC information for teachers to print out so students can bring them home to parents. 
-
-Content and layout for printable reminder below
+printable pdf quater size notes of PTC information for teachers to print out so students can bring them home to parents. Content and layout for printable reminder below.
 
 -------------------------------------------                                       
 to the parents of ___ childs name___                                
