@@ -54,8 +54,15 @@ information gathered -> Child Name, Child grade, Child's teacher, Parent/guardia
 
 *print*
 printable pdf quater size notes of students 
-to the parents of ___ childs name___
-Your parent teacher conference is at
-time____ 
-date____ 
-with___teacher name___
+-------------------------------------------
+|                                           |
+| to the parents of ___ childs name___      |                           
+| 
+| Your parent teacher conference is at      |                            
+| 
+| time____                                  |
+|                                           |
+| date____                                  |
+| 
+| with___teacher name___                    |             
+____________________________________________
