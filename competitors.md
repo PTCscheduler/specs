@@ -22,13 +22,15 @@ Copyright © 2000-2015 pickAtime. All Rights Reserved.
 My Conference Time
 https://www.myconferencetime.com/info/
 Copyright © 2015 · eleven40 theme on Genesis Framework · WordPress · Log in
-
+$380/year per school
+$14.99/year solo teacher
 
 SignupGenius
 http://www.signupgenius.com/school/parent-teacher-conference-forms.cfm
 
 Volunteer Spot
 https://www.volunteerspot.com/parent-teacher-conference
+VolunteerSpot is the leading FREE volunteer management software that's so easy, anyone can use it! 
 
 ptc Fast
 https://www.ptcfast.com/
