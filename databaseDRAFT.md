@@ -45,13 +45,20 @@ ______________________________
 | 6           | 5:15   |
 | 7           | 5:30   |
 
-teacher
+teacher 
 __________________________________
-| ID          | name            |
-| ------      |:-------   |
-| 1           | Emmet Brown     |
-| 2           | Clara Clayton   |
-| 3           | Jules Verne     |
+| ID          | name            | email | password
+| ------      |:-------   | ------      |:-------   |
+| 1           | Emmet Brown     | Emmet.Brown@ops.edu | bcryptorsimilarM213 |
+| 2           | Clara Clayton   | Clara.Clayton.edu | b34232ptorsimilarM213 |
+| 3           | Jules Verne     | Jules.Verne.edu | bcryp342342imilarM213 |
+
+Administrator
+__________________________________
+| ID          | name            | email | password
+| ------      |:-------   | ------      |:-------   |
+| 1           | Gerald Strickland     | Gerald.Strickland.edu | bcryptorsimilarM213 |
+
 
 student
 ______________________________
