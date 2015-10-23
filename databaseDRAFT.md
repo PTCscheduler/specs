@@ -8,7 +8,7 @@ Example database with:
 
 Database Draft 1
 
-schedule
+**schedule**
 __________________________________________________________________________
 | ID          | day_id    | time_id     | teacher_id | student_id  |
 | ------      |:-------   |  -----:     |-----:      |-----:       |
@@ -26,14 +26,14 @@ __________________________________________________________________________
 |    12       |      2     |      7       |    2       | 12          |
 
 
-day
+**day**
 ______________________________
 | ID          | date        |
 | ------      |:-------   |
 | 1           | 2015/23/3   |
 | 2           | 2015/24/3   |
 
-time
+**time**
 ______________________________
 | ID          | slot   |
 | ------      |:-------   |
@@ -45,7 +45,7 @@ ______________________________
 | 6           | 5:15   |
 | 7           | 5:30   |
 
-teacher 
+**teacher **
 __________________________________
 | ID          | name            | email | password
 | ------      |:-------   | ------      |:-------   |
@@ -53,14 +53,14 @@ __________________________________
 | 2           | Clara Clayton   | Clara.Clayton@ops.edu | b34232ptorsimilarM213 |
 | 3           | Jules Verne     | Jules.Verne@ops.edu | bcryp342342imilarM213 |
 
-Administrator
+**administrator**
 __________________________________
 | ID          | name            | email | password
 | ------      |:-------   | ------      |:-------   |
 | 1           | Gerald Strickland     | Gerald.Strickland@ops.edu | bcryptorsimilarM213 |
 
 
-student
+**student**
 ______________________________
 | ID           | Child_Name          | Guardian_Name1   | Guardian_Name2   | teacher_id   |
 | ------      |:-------   | ------      |:-------   | :-------   | 
