@@ -75,7 +75,7 @@ ____________________________________________
 #### The printable lists _Reports?_(version 1)
 *classroom*
 
--can be printed by the teacher for only their class
+- can be printed by the teacher for only their class
 - use csv export or pdfkit (prefered) prawn also seems an option
 - just a printable version of what's on the site, yeah they can do file print but i'd like a download pdf button
 
