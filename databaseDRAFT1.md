@@ -1,3 +1,5 @@
+information gathered -> Child Name, Child grade(?), Child's teacher, Parent/guardian name, Parent/Guardin name2, date of conference, time slot of conference, parent email{put where?}, parent email2{put where?} **it's not all in db :(**
+
 Example database with:
 - 3 teachers
 - 2 conference days
@@ -76,3 +78,4 @@ ______________________________
 | 10           | jack nursery        | goldy locks| | 1 |
 | 11           | jill nursery        | goldy locks| | 3 |
 | 12           | Humpty Dumpty       | Mother goose| | 2 |
+

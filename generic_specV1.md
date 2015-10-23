@@ -18,7 +18,7 @@ Linda Mcfly - daughter/sister
 
 Marty Mcfly - son/brother
 
-Biff Tannen - Marty's classmate
+Child Tannen - Marty's classmate
 
 Gerald Strickland - School Office administrator
 
@@ -36,13 +36,13 @@ Will focus on the usability/functions for the teachers and administrators and no
 - should be able to print a master list of all conferences (template to be given to us)
 
 *Teacher* 
-- can do CRUD operations on their own schedule, can not see other teachers schedule
+- can do CRUD operations on their own schedule, can not see other teachers schedules
 - creates a login with a @ops.edu email
 - should be able to print their own schedule
 - should be able to print reminder slips
 - send email reminder to parents
 
-**Senario 1 **(Why the administrator needs complete access)
+**Senario 1** (Why the administrator needs complete access)
 Lorraine Mcfly calls the office of the school and Strickland answers, the current time slot of 3pm for PTC won't work she'd like to change it to 4pm. Strickland asks what teacher and must log into the platform look up Dr. Brown sees that an 4pm doesnt work but 4:45 later does. Lorraine agrees and hangs up while Strickland changes Brown's PTC schedule. When Dr. Brown loggs into the platform again a notification appears at the top to the change. 
 
 **Senario 2** (why the reminder functionality)
@@ -54,7 +54,7 @@ Lorraine Mcfly calls the office of the school and Strickland answers, the curren
 - 15 minute intervals
 - parent(s) are allowed one 15 min interval per child
 
-information gathered -> Child Name, Child grade, Child's teacher, Parent/guardian name, Parent/Guardin name2, date of conference, time slot of conference, parent email, parent email2
+information gathered -> Child Name, Child grade(?), Child's teacher, Parent/guardian name, Parent/Guardin name2, date of conference, time slot of conference, parent email, parent email2
 ####The Reminders (version 1)
 *online*
 
@@ -72,8 +72,9 @@ date____
 with___teacher name___                                
 ____________________________________________
 
-#### The printable lists [Reports?] (version 1)
+#### The printable lists _Reports?_(version 1)
 *classroom*
+
 -can be printed by the teacher for only their class
 - use csv export or pdfkit (prefered) prawn also seems an option
 - just a printable version of what's on the site, yeah they can do file print but i'd like a download pdf button
@@ -88,9 +89,11 @@ ____________________________________________
 | 4:45 pm     | Needles Lastname|   Linda Mcfly   |   Else someone   | 
 | 5:00 pm     | Child Tannen     | Another student | Dave Mcfly       | 
 
-#### Notifications [Alerts?]  (version 1)
+#### Notifications _Alerts?_  (version 1)
 *teacher*
-notifications should appear if there's a change on their schedule
+
+notification or some visual indicator should appear if there's a change on their schedule
 
 *administrator*
-?
+
+None known of
