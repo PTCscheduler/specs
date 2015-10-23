@@ -51,10 +51,10 @@ Lorraine Mcfly calls the office of the school and Strickland answers, the curren
 - On wednesday Feb 21 2016 from 4:30pm until 8pm
 - On thursday Feb 22 2016 from 1pm until 8pm
 - 15 minute intervals
-- a parent is allowed one 15 min interval per child
+- parent(s) are allowed one 15 min interval per child
 
 information gathered -> Child Name, Child grade, Child's teacher, Parent/guardian name, Parent/Guardin name2, date of conference, time slot of conference, parent email, parent email2
-####Reminders
+####The Reminders
 *online*
 
 A preformatted(?) email sent to all of the parents _who have emails_ With the childs name conference date and time filled out with the teachers name at the bottom.
@@ -70,3 +70,19 @@ time____
 date____                                 
 with___teacher name___                                
 ____________________________________________
+
+#### The printable lists
+*classroom*
+-can be printed by the teacher for only their class
+- use csv export or pdfkit (prefered) prawn also seems an option
+- just a printable version of what's on the site, yeah they can do file print but i'd like a download pdf button
+
+*master list*
+- printed by the administrators for the whole school or grade level
+- use csv export or pdfkit (prefered) prawn also seems an option
+- master list example
+| Time     | Mr. Brown          | Ms Clayton      | Mr. Verne        | 
+| ------------- |:-------------:| -----:          |-----:            |
+| 4:30 pm     | Marty McFly     | other student   |  someone Else    |
+| 4:45 pm     | Needles Lastname|   Linda Mcfly   |   Else someone   | 
+| 5:00 pm     | Biff Tannen     | Another student | Dave Mcfly       |   
