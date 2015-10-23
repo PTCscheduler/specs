@@ -1,5 +1,6 @@
 #Generic Spec 
-Not specifically functional or technical spec, a mostly comprehensive collection of what the software should do, content it keeps and how it should react.
+Collection of what the software should do, content it keeps and how it should react.
+
 ##The goal of the software
 Parent teacher conferences (PTC) happen twice a year in Omaha Public Schools(OPS), currently a parent signs up for a PTC via a peice of paper while talking to the teacher at open house. The time the parent signs up for in August is the time they are given for PTC's in October and Feburary. Changes are made via phone call to secretaries and post it notes delivered to teachers. This process can be streamlined and duplicated via technology.
 
@@ -54,7 +55,7 @@ Lorraine Mcfly calls the office of the school and Strickland answers, the curren
 - parent(s) are allowed one 15 min interval per child
 
 information gathered -> Child Name, Child grade, Child's teacher, Parent/guardian name, Parent/Guardin name2, date of conference, time slot of conference, parent email, parent email2
-####The Reminders
+####The Reminders (version 1)
 *online*
 
 A preformatted(?) email sent to all of the parents _who have emails_ With the childs name conference date and time filled out with the teachers name at the bottom.
@@ -71,7 +72,7 @@ date____
 with___teacher name___                                
 ____________________________________________
 
-#### The printable lists
+#### The printable lists [Reports?] (version 1)
 *classroom*
 -can be printed by the teacher for only their class
 - use csv export or pdfkit (prefered) prawn also seems an option
@@ -85,4 +86,11 @@ ____________________________________________
 | ------------- |:-------------:| -----:          |-----:            |
 | 4:30 pm     | Marty McFly     | other student   |  someone Else    |
 | 4:45 pm     | Needles Lastname|   Linda Mcfly   |   Else someone   | 
-| 5:00 pm     | Biff Tannen     | Another student | Dave Mcfly       |   
+| 5:00 pm     | Child Tannen     | Another student | Dave Mcfly       | 
+
+#### Notifications [Alerts?]  (version 1)
+*teacher*
+notifications should appear if there's a change on their schedule
+
+*administrator*
+?
