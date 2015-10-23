@@ -62,7 +62,7 @@ __________________________________
 
 **student**
 ______________________________
-| ID           | Child_Name          | Guardian_Name1   | Guardian_Name2   | teacher_id   |
+| ID           | Child_Name          | Guardian_Name1   | Guardian_Name2   | teacher_id  (not needed technically) |
 | ------      |:-------   | ------      |:-------   | :-------   | 
 | 1            | Marty McFly         | Lorraine McFly | George McFly| 2 |
 | 2            | Linda McFly         | Lorraine McFly | George McFly| 3 |
