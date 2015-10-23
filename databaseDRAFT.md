@@ -50,14 +50,14 @@ __________________________________
 | ID          | name            | email | password
 | ------      |:-------   | ------      |:-------   |
 | 1           | Emmet Brown     | Emmet.Brown@ops.edu | bcryptorsimilarM213 |
-| 2           | Clara Clayton   | Clara.Clayton.edu | b34232ptorsimilarM213 |
-| 3           | Jules Verne     | Jules.Verne.edu | bcryp342342imilarM213 |
+| 2           | Clara Clayton   | Clara.Clayton@ops.edu | b34232ptorsimilarM213 |
+| 3           | Jules Verne     | Jules.Verne@ops.edu | bcryp342342imilarM213 |
 
 Administrator
 __________________________________
 | ID          | name            | email | password
 | ------      |:-------   | ------      |:-------   |
-| 1           | Gerald Strickland     | Gerald.Strickland.edu | bcryptorsimilarM213 |
+| 1           | Gerald Strickland     | Gerald.Strickland@ops.edu | bcryptorsimilarM213 |
 
 
 student
