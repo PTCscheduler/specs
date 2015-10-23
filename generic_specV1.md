@@ -80,7 +80,7 @@ ____________________________________________
 - just a printable version of what's on the site, yeah they can do file print but i'd like a download pdf button
 
 *master list*
-- printed by the administrators for the whole school or grade level
+- printed by the administrators for the whole school organized by grade level then alphabetical
 - use csv export or pdfkit (prefered) prawn also seems an option
 - master list example
 
