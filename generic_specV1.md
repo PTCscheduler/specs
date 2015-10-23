@@ -83,6 +83,7 @@ ____________________________________________
 - printed by the administrators for the whole school or grade level
 - use csv export or pdfkit (prefered) prawn also seems an option
 - master list example
+
 | Time     | Mr. Brown          | Ms Clayton      | Mr. Verne        | 
 | ------------- |:-------------:| -----:          |-----:            |
 | 4:30 pm     | Marty McFly     | other student   |  someone Else    |
