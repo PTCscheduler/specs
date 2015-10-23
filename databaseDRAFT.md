@@ -55,17 +55,17 @@ __________________________________
 
 student
 ______________________________
-| ID           | Child_Name          | Guardian_Name1   | Guardian_Name2   |
-| ------      |:-------   | ------      |:-------   |
-| 1            | Marty McFly         | Lorraine McFly | George McFly|
-| 2            | Linda McFly         | Lorraine McFly | George McFly|
-| 3            | Dave McFly          | Lorraine McFly | George McFly|
-| 4            | Needles Something   | frank something | Sally franklin |
-| 5            | Child Tannon        | Aunty Tannon | |
-| 6            | Someone eles        | wallfower walter| | 
-| 7            | other person        | Kado person |
-| 8            | another person      | Kado person |
-| 9            | little bear         | papa bear | moma bear|
-| 10           | jack nursery        | goldy locks| |
-| 11           | jill nursery        | goldy locks| |
-| 12           | Humpty Dumpty       | Mother goose| |
+| ID           | Child_Name          | Guardian_Name1   | Guardian_Name2   | teacher_id   |
+| ------      |:-------   | ------      |:-------   | :-------   | 
+| 1            | Marty McFly         | Lorraine McFly | George McFly| 2 |
+| 2            | Linda McFly         | Lorraine McFly | George McFly| 3 |
+| 3            | Dave McFly          | Lorraine McFly | George McFly| 2 |
+| 4            | Needles Something   | frank something | Sally franklin | 3 |
+| 5            | Child Tannon        | Aunty Tannon | | 3 |
+| 6            | Someone eles        | wallfower walter| | 1|
+| 7            | other person        | Kado person | | 2 |
+| 8            | another person      | Kado person | | 1 |
+| 9            | little bear         | papa bear | moma bear| 1|
+| 10           | jack nursery        | goldy locks| | 1 |
+| 11           | jill nursery        | goldy locks| | 3 |
+| 12           | Humpty Dumpty       | Mother goose| | 2 |
