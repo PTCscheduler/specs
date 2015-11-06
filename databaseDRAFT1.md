@@ -1,4 +1,4 @@
-information gathered -> Child Name, Child grade(?), Child's teacher, Parent/guardian name, Parent/Guardin name2, date of conference, time slot of conference, parent email{put where?}, parent email2{put where?} **it's not all in db :(**
+information gathered -> Child Name, Child grade(?), Child's teacher, Parent/guardian name, Parent/Guardin name2, date of conference, time slot of conference, parent email, parent email2
 
 Example database with:
 - 3 teachers
@@ -78,14 +78,14 @@ __________________________________
 | 1           | Lorraine  | McFly     | L.mcfly@gmail.com | 
 | 2           | George  | McFly     | G.mcfly@yahoo.com | 
 
-**students_guardians (Bridge)**
+**students_guardians(Bridge)**
 __________________________________
 | guardian_id          | student_id |         
 | ------      |:-------   |
 | 1           | 1 | McFly     | 
 | 2           | 2  | McFly     | 
 
-**students_teachers (Bridge)**
+**students_teachers(Bridge)**
 __________________________________
 |ID| student_id          | teacher_id |         
 |---| ------      |:-------   |
