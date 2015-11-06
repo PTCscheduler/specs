@@ -83,4 +83,5 @@ ______________________________
 __________________________________
 | ID          | first_name            | last_name | email | student_id
 | ------      |:-------   | ------      |:-------   | --- |
-| 1           | Lorraine  | McFly     | Gerald.Strickland@ops.edu | 1 |
+| 1           | Lorraine  | McFly     | L.mcfly@gmail.com | 1 |
+| 2           | George  | McFly     | G.mcfly@yahoo.com | 1 |
