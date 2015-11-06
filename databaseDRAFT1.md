@@ -10,7 +10,7 @@ Example database with:
 
 Database Draft 1
 
-**schedule**
+**schedules**
 __________________________________________________________________________
 | ID          | day_id    | time_id     | teacher_id | student_id  |
 | ------      |:-------   |  -----:     |-----:      |-----:       |
@@ -28,14 +28,14 @@ __________________________________________________________________________
 |    12       |      2     |      7       |    2       | 12          |
 
 
-**day**
+**days**
 ______________________________
 | ID          | date        |
 | ------      |:-------   |
 | 1           | 2015/23/3   |
 | 2           | 2015/24/3   |
 
-**time**
+**times**
 ______________________________
 | ID          | slot   |
 | ------      |:-------   |
@@ -47,7 +47,7 @@ ______________________________
 | 6           | 5:15   |
 | 7           | 5:30   |
 
-**teacher**
+**teachers**
 __________________________________
 | ID          | name            | email | password
 | ------      |:-------   | ------      |:-------   |
@@ -55,20 +55,20 @@ __________________________________
 | 2           | Clara Clayton   | Clara.Clayton@ops.edu | b34232ptorsimilarM213 |
 | 3           | Jules Verne     | Jules.Verne@ops.edu | bcryp342342imilarM213 |
 
-**administrator**
+**administrators**
 __________________________________
 | ID          | name            | email | password
 | ------      |:-------   | ------      |:-------   |
 | 1           | Gerald Strickland     | Gerald.Strickland@ops.edu | bcryptorsimilarM213 |
 
 
-**student**
+**students**
 ______________________________
-| ID           | Child_Name          | Guardian_Name1   | Guardian_Name2   | teacher_id  (not needed technically) |
+| ID           | child_name          | guardian_id   | guardian_Name2   | teacher_id  (not needed technically) |
 | ------      |:-------   | ------      |:-------   | :-------   | 
-| 1            | Marty McFly         | Lorraine McFly | George McFly| 2 |
-| 2            | Linda McFly         | Lorraine McFly | George McFly| 3 |
-| 3            | Dave McFly          | Lorraine McFly | George McFly| 2 |
+| 1            | Marty McFly         | 1 | 2| 2 |
+| 2            | Linda McFly         | 1 | 2| 3 |
+| 3            | Dave McFly          | 1 | 2| 2 |
 | 4            | Needles Something   | frank something | Sally franklin | 3 |
 | 5            | Child Tannon        | Aunty Tannon | | 3 |
 | 6            | Someone eles        | wallfower walter| | 1|
@@ -79,3 +79,8 @@ ______________________________
 | 11           | jill nursery        | goldy locks| | 3 |
 | 12           | Humpty Dumpty       | Mother goose| | 2 |
 
+**guardians**
+__________________________________
+| ID          | first_name            | last_name | email | student_id
+| ------      |:-------   | ------      |:-------   | --- |
+| 1           | Lorraine  | McFly     | Gerald.Strickland@ops.edu | 1 |
