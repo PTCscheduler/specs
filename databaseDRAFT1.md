@@ -78,14 +78,14 @@ __________________________________
 | 1           | Lorraine  | McFly     | L.mcfly@gmail.com | 
 | 2           | George  | McFly     | G.mcfly@yahoo.com | 
 
-students_guardians (Bridge)
+**students_guardians (Bridge)**
 __________________________________
 | guardian_id          | student_id |         
 | ------      |:-------   |
 | 1           | 1 | McFly     | 
 | 2           | 2  | McFly     | 
 
-students_teachers (Bridge)
+**students_teachers (Bridge)**
 __________________________________
 |ID| student_id          | teacher_id |         
 |---| ------      |:-------   |
