@@ -57,9 +57,9 @@ __________________________________
 
 **administrators**
 __________________________________
-| ID          | name            | email | password
+| ID          | first_name | last_name            | email | password
 | ------      |:-------   | ------      |:-------   |
-| 1           | Gerald Strickland     | Gerald.Strickland@ops.edu | bcryptorsimilarM213 |
+| 1           | Gerald | Strickland     | Gerald.Strickland@ops.edu | bcryptorsimilarM213 |
 
 
 **students**
