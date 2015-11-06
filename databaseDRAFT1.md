@@ -64,7 +64,7 @@ __________________________________
 
 **students**
 ______________________________
-| ID           | child_name          | guardian_id   | guardian_Name2   | teacher_id  (not needed technically) |
+| ID           | child_name          | guardian_id   | guardian_id   | teacher_id  (not needed technically) |
 | ------      |:-------   | ------      |:-------   | :-------   | 
 | 1            | Marty McFly         | 1 | 2| 2 |
 | 2            | Linda McFly         | 1 | 2| 3 |
@@ -81,7 +81,21 @@ ______________________________
 
 **guardians**
 __________________________________
-| ID          | first_name            | last_name | email | student_id
+| ID          | first_name            | last_name | email | 
 | ------      |:-------   | ------      |:-------   | --- |
-| 1           | Lorraine  | McFly     | L.mcfly@gmail.com | 1 |
-| 2           | George  | McFly     | G.mcfly@yahoo.com | 1 |
+| 1           | Lorraine  | McFly     | L.mcfly@gmail.com | 
+| 2           | George  | McFly     | G.mcfly@yahoo.com | 
+
+students_guardians (Bridge)
+__________________________________
+| guardian_id          | student_id |         
+| ------      |:-------   |
+| 1           | 1 | McFly     | 
+| 2           | 2  | McFly     | 
+
+students_teachers (Bridge)
+__________________________________
+| guardian_id          | student_id |         
+| ------      |:-------   |
+| 1           | 1 | 
+| 2           | 2 |
