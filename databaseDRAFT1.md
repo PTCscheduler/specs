@@ -64,20 +64,12 @@ __________________________________
 
 **students**
 ______________________________
-| ID           | child_name          | guardian_id   | guardian_id   | teacher_id  (not needed technically) |
-| ------      |:-------   | ------      |:-------   | :-------   | 
-| 1            | Marty McFly         | 1 | 2| 2 |
-| 2            | Linda McFly         | 1 | 2| 3 |
-| 3            | Dave McFly          | 1 | 2| 2 |
-| 4            | Needles Something   | frank something | Sally franklin | 3 |
-| 5            | Child Tannon        | Aunty Tannon | | 3 |
-| 6            | Someone eles        | wallfower walter| | 1|
-| 7            | other person        | Kado person | | 2 |
-| 8            | another person      | Kado person | | 1 |
-| 9            | little bear         | papa bear | moma bear| 1|
-| 10           | jack nursery        | goldy locks| | 1 |
-| 11           | jill nursery        | goldy locks| | 3 |
-| 12           | Humpty Dumpty       | Mother goose| | 2 |
+| ID           | first_name          | last_name
+| ------      |:-------   | ------      |
+| 1            | Marty | McFly         |
+| 2            | Linda | McFly         | 
+| 3            | Dave | McFly          | 
+
 
 **guardians**
 __________________________________
