@@ -1,3 +1,4 @@
+**no longer a draft, set in nov 5th meeting**
 information gathered -> Child Name, Child grade(?), Child's teacher, Parent/guardian name, Parent/Guardin name2, date of conference, time slot of conference, parent email, parent email2
 
 Example database with:
